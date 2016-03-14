@@ -1,0 +1,3 @@
+newplayer password 0 0
+Mister newpassq 0 0
+newuser password 0 0
